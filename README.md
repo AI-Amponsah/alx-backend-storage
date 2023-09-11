@@ -1,7 +1,7 @@
 # MySQL advanced
 
 ## Resources
-- MySQL cheatsheet
+- [MySQL cheatsheet] https://devhints.io/mysql
 - MySQL Performance: How To Leverage MySQL Database Indexing
 - Stored Procedure
 - Triggers
