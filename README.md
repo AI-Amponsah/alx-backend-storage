@@ -1,18 +1,18 @@
 # MySQL advanced
 
 ## Resources
-- [MySQL cheatsheet] (https://devhints.io/mysql)
-- MySQL Performance: How To Leverage MySQL Database Indexing
-- Stored Procedure
-- Triggers
-- Views
-- Functions and Operators
+- [MySQL cheatsheet](https://devhints.io/mysql)
+- [MySQL Performance: How To Leverage MySQL Database Indexing](https://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/)
+- [Stored Procedure](https://www.w3resource.com/mysql/mysql-procedure.php)
+- [Triggers](https://www.w3resource.com/mysql/mysql-triggers.php)
+- [Views](https://www.w3resource.com/mysql/mysql-views.php)
+- [Functions and Operators](https://dev.mysql.com/doc/refman/5.7/en/functions.html)
 - Trigger Syntax and Examples
 - CREATE TABLE Statement
 - CREATE PROCEDURE and CREATE FUNCTION Statements
 - CREATE INDEX Statement
 - CREATE VIEW Statement
-- [GitHub](https://github.com)
+
 
 ## Learning Objectives
 - How to create tables with constraints
