@@ -12,6 +12,7 @@
 - CREATE PROCEDURE and CREATE FUNCTION Statements
 - CREATE INDEX Statement
 - CREATE VIEW Statement
+- [GitHub](https://github.com)
 
 ## Learning Objectives
 - How to create tables with constraints
