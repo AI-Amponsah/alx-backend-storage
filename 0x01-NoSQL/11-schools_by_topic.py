@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""This module defines a function `schools_by_topic`"""
+"""MongoDB Find"""
 
 
 def schools_by_topic(mongo_collection, topic):
-    """Returns the list of school having a specific topic"""
-    school_list = mongo_collection.find(
-        {"topics": topic}
-    )
-    return school_list
+    """
+    Using an aggregate to find docs
+    :param mongo_collection: Pymongo connection
+    :param topic: The topic to search
+    :return: The list of school that having the same topics
+    """
+    return [i for i in mongo_collection.find({"topics": topic})]
