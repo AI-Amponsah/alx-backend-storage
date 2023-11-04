@@ -4,7 +4,7 @@ from pymongo import MongoClient
 
 if __name__ == "__main__":
     """ check for all elements in a collection """
-    client = MongoClient('mongodb://127.0.0.1:27017')
+    client = MongoClient('mongodb://102.176.65.26')
     collection = client.logs.nginx
 
     print(f"{collection.estimated_document_count()} logs")
